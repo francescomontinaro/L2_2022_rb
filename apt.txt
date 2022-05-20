@@ -1,3 +1,3 @@
-libglpk-dev
-libgmp3-dev
-libxml2-dev
+version https://git-lfs.github.com/spec/v1
+oid sha256:7ea3f59cee87cbb04cbc4dc2b6d563e4397445efaf498a58de4c711aafd5a3bb
+size 36

@@ -1,11 +1,3 @@
-name: binder-badge
-on:
-  pull_request_target:
-
-jobs:
-  badge:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: manics/action-binderbadge@main
-        with:
-          githubToken: ${{ secrets.GITHUB_TOKEN }}
+version https://git-lfs.github.com/spec/v1
+oid sha256:3532851bdad1340773af3b0074c102d66d2e7d18ef5a77349bb542dfd1626cc7
+size 210
