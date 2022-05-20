@@ -1,0 +1,12 @@
+PLINK v1.90b6.26 64-bit (2 Apr 2022)
+Options in effect:
+  --bfile subset1KGPApril2016NewMapAutoChr2Geno01Missing01HWELD
+  --thin-count 10000
+
+Hostname: francesco-latitudee6540
+Working directory: /home/francesco/Dropbox/Corsi/Antropologia_Molecolare_e_genetica_delle_dipendenzeII/Esercitazioni/L2
+Start time: Wed May 11 15:32:41 2022
+
+Warning: No output requested.  (Did you forget --make-bed?)  Exiting.
+
+End time: Wed May 11 15:32:41 2022
